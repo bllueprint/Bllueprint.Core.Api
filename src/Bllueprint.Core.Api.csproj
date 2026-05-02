@@ -13,7 +13,7 @@
 
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 
-    <PackageIcon>assets/icon.png</PackageIcon>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="assets/icon.png" Pack="true" PackagePath="\" />
+    <None Include="assets/icon.png" Pack="true" PackagePath="/" />
   </ItemGroup>
 
   <ItemGroup>
