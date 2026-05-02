@@ -21,7 +21,7 @@ jobs:
 
       - name: Pack
         run: |
-          dotnet pack src/Bllueprint.Core.Domain.csproj \
+          dotnet pack src/Bllueprint.Core.Api.csproj \
             --configuration Release \
             --no-restore \
             --output ./nupkg
