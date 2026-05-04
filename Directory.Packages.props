@@ -17,6 +17,6 @@
     <PackageVersion Include="xunit.analyzers" Version="1.27.0" />
     <PackageVersion Include="xunit" Version="2.9.3" />
     <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="10.0.7" />
-    <PackageVersion Include="Bllueprint.Core.Application" Version="1.0.0" />
+    <PackageVersion Include="Bllueprint.Core.Application" Version="10.0.1" />
   </ItemGroup>
 </Project>

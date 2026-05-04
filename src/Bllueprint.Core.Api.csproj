@@ -1,18 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
-
     <PackageId>Bllueprint.Core.Api</PackageId>
-    <Version>10.0.0</Version>
+    <Version>10.0.1</Version>
     <Authors>Nubaum</Authors>
     <Description>A nice nuget package for DDD - Api layer</Description>
     <PackageTags>DDD domain-driven-design clean-architecture domain core csharp dotnet bllueprint</PackageTags>
     <RepositoryUrl>https://github.com/bllueprint/Bllueprint.Core.Api</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-
     <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
