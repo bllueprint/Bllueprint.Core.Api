@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>Bllueprint.Core.Api</PackageId>
-    <Version>10.0.1</Version>
+    <Version>10.0.4</Version>
     <Authors>Nubaum</Authors>
     <Description>A nice nuget package for DDD - Api layer</Description>
     <PackageTags>DDD domain-driven-design clean-architecture domain core csharp dotnet bllueprint</PackageTags>
@@ -13,6 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Bllueprint.Core.Infrastructure" />
     <PackageReference Include="MediatR" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
     <PackageReference Include="Scalar.AspNetCore.Microsoft" />
